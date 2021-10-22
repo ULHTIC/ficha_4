@@ -19,15 +19,15 @@ Na resolução destes exercícios deve ser utilizada a Linguagem de Programaçã
 
 2.	Preencher um vetor x com 5 elementos inteiros pares entre número 2 a 20 inseridos pelo utilizador. Preencher um vetor y com 5 elementos inteiros ímpares de 10 a 19, inseridos pelo utilizador.  Somar os números que pertençam a mesma posição e imprimir cada resultado no ecrã, ou seja: x[0]+y[0],x[1]+y[1].
 
-3.	**[13.04 14h-16h]**	Preencher um vetor de 8 elementos inteiros inseridos pelo utilizador. Mostrar o vetor e informar quantos números são maiores que 30. Somar esses números. Somar todos os números.
+3.	Preencher um vetor de 8 elementos inteiros inseridos pelo utilizador. Mostrar o vetor e informar quantos números são maiores que 30. Somar esses números. Somar todos os números.
 
 4.	Preencher um vetor de 8 elementos inteiros inseridos pelo utilizador. Mostrar o vetor na horizontal, espaçando os valores por tabs (\t). Calcular a média dos valores do vetor. Mostrar quantos números são múltiplos de 5. Quantos números são maiores que 10 e menores que 30. Qual o maior número do vetor.
 
 5.	Preencher uma matriz com 3 nomes inseridos pelo utilizador, e mostrar quantas letras A (total de maiúsculas e minúsculas) e E  (idem) têm nos 3 nomes.
 
-6.	**[13.04 14h-16h]**	Criar um algoritmo que lê um conjunto de 30 valores do teclado e os coloca em 2 vetores conforme estes valores forem pares ou ímpares. O tamanho do vetor é de 5 posições. Se algum vetor estiver cheio, escrevê-lo. Terminada a leitura escrever o conteúdo dos dois vetores. Cada vetor pode ser preenchido tantas vezes quantas for necessário.
+6.	Criar um algoritmo que lê um conjunto de 30 valores do teclado e os coloca em 2 vetores conforme estes valores forem pares ou ímpares. O tamanho do vetor é de 5 posições. Se algum vetor estiver cheio, escrevê-lo. Terminada a leitura escrever o conteúdo dos dois vetores. Cada vetor pode ser preenchido tantas vezes quantas for necessário.
 
-7.	**[13.04 14h-16h]**	Armazenar nos vetores Nomes, PR1 e PR2 o nome e nota de duas provas de 6 alunos. Guardar no vetor Media a média de cada aluno e imprimir aprovado se a média for maior que 5 e reprovado se a média for menor ou igual a 5. OBS.: 2 vetores para as notas tipo float. 1 vetor para os nomes. 1 vetor para a média. 1 vetor para situação.
+7.	Armazenar nos vetores Nomes, PR1 e PR2 o nome e nota de duas provas de 6 alunos. Guardar no vetor Media a média de cada aluno e imprimir aprovado se a média for maior que 5 e reprovado se a média for menor ou igual a 5. OBS.: 2 vetores para as notas tipo float. 1 vetor para os nomes. 1 vetor para a média. 1 vetor para situação.
 
 8.	Preencher um vetor com 5 números e guardar o cubo dos números em outro vetor. Mostrar os dois vetores.
 
