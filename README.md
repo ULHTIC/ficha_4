@@ -85,8 +85,6 @@ A probabilidade deu certo? Ou seja, a percentagem dos números foi parecida?
 
 ## Ficheiros
 
-# Ficha de Exercícios - 7: Ficheiros
-
 1. Implemente um programa que indique se podemos ou não abrir um determinado ficheiro. Exemplo de utilização
 	```
 	$ .\verificador 
